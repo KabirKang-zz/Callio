@@ -1,0 +1,7 @@
+{
+    "current_datetime": "01-10-14 15:05:00",
+    "call_lower_bound": 80,
+    "alpha": 2.0,
+    "last_price": 100.0,
+    "call_upper_bound": 140
+}
